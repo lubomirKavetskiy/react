@@ -6,7 +6,7 @@ const NODE_ENV = process.env.NODE_ENV || 'development';
 
 module.exports = {
     entry: [
-        'webpack-dev-server/client?http://localhost:3000',
+        'webpack-dev-server/client?http://n',
         'webpack/hot/dev-server',
         './src/index.js'
     ],

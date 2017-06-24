@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainman161/test.git"
+    "url": "git+https://github.com/lubomirKavetskiy/react.git"
   },
   "keywords": [
     "test",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/rainman161/test/issues"
   },
-  "homepage": "https://github.com/rainman161/test#readme",
+  "homepage": "https://github.com/lubomirKavetskiy/react.git#readme",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-eslint": "^6.1.2",
@@ -44,6 +44,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.3.0",
     "react-dom": "^15.3.0"
   }
